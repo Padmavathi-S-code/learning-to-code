@@ -12,10 +12,10 @@ I will gradually add new topics, courses, programming languages, and projects as
 
 ## Why This Repository?
 
-* Build consistent programming habits
-* Keep my learning organized
-* Practice by writing code
-* Document what I learn and revisit it later
-* Track my progress from fundamentals to real projects
+* Build consistent programming habits.
+* Keep my learning organized.
+* Practice by writing code.
+* Document what I learn and revisit it later.
+* Track my progress from fundamentals to real projects.
 
 This repository will grow with me as I learn to code.
